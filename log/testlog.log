@@ -1,0 +1,229 @@
+2022-10-04 19:22:00,068 - ebam -INFO - URL is opened
+2022-10-04 19:22:02,254 - ebam -INFO - Eneterd username
+2022-10-04 19:22:02,485 - ebam -INFO - entered password
+2022-10-04 19:22:05,043 - ebam -INFO - Test has passed
+2022-10-04 19:22:05,044 - ebam -INFO - Test has failed
+2022-10-04 19:49:59,089 - ebam -INFO - URL is opened
+2022-10-04 19:49:59,487 - ebam -INFO - Eneterd username
+2022-10-04 19:49:59,710 - ebam -INFO - entered password
+2022-10-04 19:50:02,262 - ebam -INFO - Test has passed
+2022-10-04 19:50:02,263 - ebam -INFO - Test has failed
+2022-10-04 19:52:42,332 - ebam -INFO - URL is opened
+2022-10-07 19:00:57,102 - ebam -INFO - URL is opened
+2022-10-07 19:09:02,931 - ebam -INFO - URL is opened
+2022-10-07 19:11:07,799 - ebam -INFO - URL is opened
+2022-10-07 19:11:10,711 - ebam -INFO - Eneterd username
+2022-10-07 19:11:10,920 - ebam -INFO - entered password
+2022-10-07 19:11:13,278 - ebam -INFO - Test has passed
+2022-10-07 19:11:13,279 - ebam -INFO - Test has failed
+2022-10-07 19:15:50,163 - ebam -INFO - URL is opened
+2022-10-07 19:15:51,590 - ebam -INFO - Eneterd username
+2022-10-07 19:15:51,740 - ebam -INFO - entered password
+2022-10-07 19:15:53,842 - ebam -INFO - Test has passed
+2022-10-07 19:15:53,843 - ebam -INFO - Test has failed
+2022-10-07 19:42:35,194 - ebam -INFO - URL is opened
+2022-10-07 19:42:35,680 - ebam -INFO - Eneterd username
+2022-10-07 19:42:36,149 - ebam -INFO - entered password
+2022-10-07 19:42:39,000 - ebam -INFO - Test has passed
+2022-10-07 19:42:39,000 - ebam -INFO - Test has failed
+2022-10-07 19:56:22,625 - ebam -INFO - URL is opened
+2022-10-07 19:56:23,026 - ebam -INFO - Eneterd username
+2022-10-07 19:56:23,074 - ebam -INFO - entered password
+2022-10-07 19:56:24,324 - ebam -INFO - Test has passed
+2022-10-07 19:56:24,327 - ebam -INFO - Test has failed
+2022-10-10 18:08:48,806 - ebam -INFO - URL is opened
+2022-10-10 18:08:49,519 - ebam -INFO - Eneterd username
+2022-10-10 18:08:49,658 - ebam -INFO - entered password
+2022-10-10 18:08:52,193 - ebam -INFO - Test has passed
+2022-10-10 18:08:52,194 - ebam -INFO - Test has failed
+2022-10-10 18:09:51,564 - ebam -INFO - URL is opened
+2022-10-10 18:09:51,777 - ebam -INFO - Eneterd username
+2022-10-10 18:09:51,930 - ebam -INFO - entered password
+2022-10-10 18:09:53,991 - ebam -INFO - Test has passed
+2022-10-10 18:09:53,995 - ebam -INFO - Test has failed
+2022-10-10 18:48:23,791 - ebam -INFO - URL is opened
+2022-10-10 18:48:24,200 - ebam -INFO - Eneterd username
+2022-10-10 18:48:24,369 - ebam -INFO - entered password
+2022-10-10 18:48:27,047 - ebam -INFO - Test has passed
+2022-10-10 18:48:27,048 - ebam -INFO - Test has failed
+2022-10-10 19:33:01,844 - ebam -INFO - URL is opened
+2022-10-10 19:33:03,353 - ebam -INFO - Eneterd username
+2022-10-10 19:33:03,569 - ebam -INFO - entered password
+2022-10-10 19:33:05,773 - ebam -INFO - Test has passed
+2022-10-10 19:33:05,774 - ebam -INFO - Test has failed
+2022-10-10 19:36:16,595 - ebam -INFO - URL is opened
+2022-10-10 19:36:16,983 - ebam -INFO - Eneterd username
+2022-10-10 19:36:17,041 - ebam -INFO - entered password
+2022-10-10 19:36:18,383 - ebam -INFO - Test has passed
+2022-10-10 19:36:18,385 - ebam -INFO - Test has failed
+2022-10-11 17:44:07,200 - ebam -INFO - URL is opened
+2022-10-11 17:44:09,444 - ebam -INFO - Eneterd username
+2022-10-11 17:44:09,685 - ebam -INFO - entered password
+2022-10-11 17:44:11,978 - ebam -INFO - Test has passed
+2022-10-11 17:44:11,980 - ebam -INFO - Test has failed
+2022-10-11 18:21:25,564 - ebam -INFO - user name provided
+2022-10-11 18:21:25,811 - ebam -INFO - password provided
+2022-10-11 18:21:31,913 - ebam -INFO - Login passed
+2022-10-11 18:21:39,956 - ebam -INFO - user name provided
+2022-10-11 18:21:41,136 - ebam -INFO - password provided
+2022-10-11 18:21:50,855 - ebam -INFO - user name provided
+2022-10-11 18:21:51,116 - ebam -INFO - password provided
+2022-10-11 18:21:59,250 - ebam -INFO - user name provided
+2022-10-11 18:22:00,562 - ebam -INFO - password provided
+2022-10-11 18:22:09,003 - ebam -INFO - user name provided
+2022-10-11 18:22:09,129 - ebam -INFO - password provided
+2022-10-11 18:25:19,216 - ebam -INFO - user name provided
+2022-10-11 18:25:19,418 - ebam -INFO - password provided
+2022-10-11 18:25:25,488 - ebam -INFO - Login passed
+2022-10-11 18:25:32,685 - ebam -INFO - user name provided
+2022-10-11 18:25:32,808 - ebam -INFO - password provided
+2022-10-11 18:25:42,570 - ebam -INFO - user name provided
+2022-10-11 18:25:42,693 - ebam -INFO - password provided
+2022-10-11 18:25:49,540 - ebam -INFO - user name provided
+2022-10-11 18:25:49,659 - ebam -INFO - password provided
+2022-10-11 18:25:55,941 - ebam -INFO - user name provided
+2022-10-11 18:25:56,048 - ebam -INFO - password provided
+2022-10-11 18:27:30,624 - ebam -INFO - user name provided
+2022-10-11 18:27:30,868 - ebam -INFO - password provided
+2022-10-11 18:27:36,862 - ebam -INFO - Login passed
+2022-10-11 18:27:44,333 - ebam -INFO - user name provided
+2022-10-11 18:27:44,457 - ebam -INFO - password provided
+2022-10-11 18:27:53,773 - ebam -INFO - user name provided
+2022-10-11 18:27:54,201 - ebam -INFO - password provided
+2022-10-11 18:28:01,116 - ebam -INFO - user name provided
+2022-10-11 18:28:01,235 - ebam -INFO - password provided
+2022-10-11 18:28:08,107 - ebam -INFO - user name provided
+2022-10-11 18:28:08,231 - ebam -INFO - password provided
+2022-10-11 18:28:15,169 - ebam -INFO - Login passed
+2022-10-11 18:34:59,770 - ebam -INFO - user name provided
+2022-10-11 18:35:00,011 - ebam -INFO - password provided
+2022-10-11 18:35:06,359 - ebam -INFO - Login passed
+2022-10-11 18:35:14,691 - ebam -INFO - user name provided
+2022-10-11 18:35:14,857 - ebam -INFO - password provided
+2022-10-11 18:35:22,433 - ebam -INFO - user name provided
+2022-10-11 18:35:22,550 - ebam -INFO - password provided
+2022-10-11 18:35:29,257 - ebam -INFO - user name provided
+2022-10-11 18:35:29,383 - ebam -INFO - password provided
+2022-10-11 18:35:35,857 - ebam -INFO - user name provided
+2022-10-11 18:35:35,971 - ebam -INFO - password provided
+2022-10-11 18:35:41,022 - ebam -INFO - Login passed
+2022-10-11 18:40:54,053 - ebam -INFO - URL is opened
+2022-10-11 18:40:56,216 - ebam -INFO - Eneterd username
+2022-10-11 18:40:56,350 - ebam -INFO - entered password
+2022-10-11 18:40:59,624 - ebam -INFO - Test has passed
+2022-10-11 18:40:59,626 - ebam -INFO - Test has failed
+2022-10-11 18:43:38,009 - ebam -INFO - user name provided
+2022-10-11 18:43:38,186 - ebam -INFO - password provided
+2022-10-11 18:43:43,720 - ebam -INFO - Login passed
+2022-10-11 18:43:52,515 - ebam -INFO - user name provided
+2022-10-11 18:43:52,641 - ebam -INFO - password provided
+2022-10-11 18:44:01,251 - ebam -INFO - user name provided
+2022-10-11 18:44:01,375 - ebam -INFO - password provided
+2022-10-11 18:44:08,238 - ebam -INFO - user name provided
+2022-10-11 18:44:08,353 - ebam -INFO - password provided
+2022-10-11 18:44:15,191 - ebam -INFO - user name provided
+2022-10-11 18:44:15,316 - ebam -INFO - password provided
+2022-10-11 18:44:20,870 - ebam -INFO - Login passed
+2022-10-11 20:32:44,313 - ebam -INFO - user name provided
+2022-10-11 20:32:44,532 - ebam -INFO - password provided
+2022-10-11 20:32:51,991 - ebam -INFO - Login passed
+2022-10-11 20:32:59,461 - ebam -INFO - user name provided
+2022-10-11 20:32:59,595 - ebam -INFO - password provided
+2022-10-11 20:33:10,126 - ebam -INFO - user name provided
+2022-10-11 20:33:10,290 - ebam -INFO - password provided
+2022-10-11 20:33:17,314 - ebam -INFO - user name provided
+2022-10-11 20:33:17,494 - ebam -INFO - password provided
+2022-10-11 20:33:24,525 - ebam -INFO - user name provided
+2022-10-11 20:33:24,651 - ebam -INFO - password provided
+2022-10-11 20:33:30,271 - ebam -INFO - Login passed
+2022-10-11 20:37:26,095 - ebam -INFO - URL is opened
+2022-10-11 20:37:27,174 - ebam -INFO - Eneterd username
+2022-10-11 20:37:27,344 - ebam -INFO - entered password
+2022-10-11 20:37:29,686 - ebam -INFO - Test has passed
+2022-10-11 20:37:29,687 - ebam -INFO - Test has failed
+2022-10-11 20:37:38,064 - ebam -INFO - user name provided
+2022-10-11 20:37:38,236 - ebam -INFO - password provided
+2022-10-11 20:37:43,037 - ebam -INFO - Login passed
+2022-10-11 20:37:49,559 - ebam -INFO - user name provided
+2022-10-11 20:37:49,696 - ebam -INFO - password provided
+2022-10-11 20:37:57,238 - ebam -INFO - user name provided
+2022-10-11 20:37:57,474 - ebam -INFO - password provided
+2022-10-11 20:38:05,002 - ebam -INFO - user name provided
+2022-10-11 20:38:05,156 - ebam -INFO - password provided
+2022-10-11 20:38:11,154 - ebam -INFO - user name provided
+2022-10-11 20:38:11,300 - ebam -INFO - password provided
+2022-10-11 20:38:16,451 - ebam -INFO - Login passed
+2022-10-11 22:16:59,104 - ebam -INFO - URL is opened
+2022-10-11 22:16:59,900 - ebam -INFO - Eneterd username
+2022-10-11 22:17:01,489 - ebam -INFO - entered password
+2022-10-11 22:17:04,146 - ebam -INFO - Test has passed
+2022-10-11 22:17:04,147 - ebam -INFO - Test has failed
+2022-10-11 22:17:13,868 - ebam -INFO - user name provided
+2022-10-11 22:17:14,015 - ebam -INFO - password provided
+2022-10-11 22:17:20,183 - ebam -INFO - Login passed
+2022-10-11 22:17:27,674 - ebam -INFO - user name provided
+2022-10-11 22:17:27,846 - ebam -INFO - password provided
+2022-10-11 22:17:36,024 - ebam -INFO - user name provided
+2022-10-11 22:17:36,226 - ebam -INFO - password provided
+2022-10-11 22:17:43,135 - ebam -INFO - user name provided
+2022-10-11 22:17:43,354 - ebam -INFO - password provided
+2022-10-11 22:17:49,627 - ebam -INFO - user name provided
+2022-10-11 22:17:49,785 - ebam -INFO - password provided
+2022-10-11 22:17:54,564 - ebam -INFO - Login passed
+2022-10-12 09:06:26,988 - ebam -INFO - User name is provided
+2022-10-12 09:06:28,995 - ebam -INFO - Passsword is provided
+2022-10-12 09:06:34,603 - ebam -INFO - providing customer details....
+2022-10-12 09:13:44,583 - ebam -INFO - user name provided
+2022-10-12 09:13:44,771 - ebam -INFO - password provided
+2022-10-12 09:13:49,627 - ebam -INFO - Login passed
+2022-10-12 09:13:56,767 - ebam -INFO - user name provided
+2022-10-12 09:13:56,887 - ebam -INFO - password provided
+2022-10-12 09:14:03,341 - ebam -INFO - user name provided
+2022-10-12 09:14:03,544 - ebam -INFO - password provided
+2022-10-12 09:14:12,108 - ebam -INFO - user name provided
+2022-10-12 09:14:12,227 - ebam -INFO - password provided
+2022-10-12 09:14:18,772 - ebam -INFO - user name provided
+2022-10-12 09:14:18,960 - ebam -INFO - password provided
+2022-10-12 09:14:24,305 - ebam -INFO - Login passed
+2022-10-12 09:23:00,444 - ebam -INFO - user name provided
+2022-10-12 09:23:00,756 - ebam -INFO - password provided
+2022-10-12 09:23:05,695 - ebam -INFO - Login passed
+2022-10-12 09:23:12,624 - ebam -INFO - user name provided
+2022-10-12 09:23:12,787 - ebam -INFO - password provided
+2022-10-12 09:23:21,737 - ebam -INFO - user name provided
+2022-10-12 09:23:22,301 - ebam -INFO - password provided
+2022-10-12 09:23:28,932 - ebam -INFO - user name provided
+2022-10-12 09:23:29,082 - ebam -INFO - password provided
+2022-10-12 09:23:35,425 - ebam -INFO - user name provided
+2022-10-12 09:23:35,555 - ebam -INFO - password provided
+2022-10-12 09:23:40,114 - ebam -INFO - Login passed
+2022-10-12 09:25:44,555 - ebam -INFO - user name provided
+2022-10-12 09:25:44,909 - ebam -INFO - password provided
+2022-10-12 09:25:50,058 - ebam -INFO - Login passed
+2022-10-12 09:25:57,033 - ebam -INFO - user name provided
+2022-10-12 09:25:57,139 - ebam -INFO - password provided
+2022-10-12 09:26:02,004 - ebam -INFO - Login passed
+2022-10-12 09:41:06,562 - ebam -INFO - user name provided
+2022-10-12 09:41:06,782 - ebam -INFO - password provided
+2022-10-12 09:41:12,677 - ebam -INFO - Login passed
+2022-10-12 09:41:19,773 - ebam -INFO - user name provided
+2022-10-12 09:41:19,902 - ebam -INFO - password provided
+2022-10-12 09:41:25,170 - ebam -INFO - Login passed
+2022-10-12 09:43:35,426 - ebam -INFO - user name provided
+2022-10-12 09:43:35,692 - ebam -INFO - password provided
+2022-10-12 09:43:41,089 - ebam -INFO - Login passed
+2022-10-12 09:43:49,367 - ebam -INFO - user name provided
+2022-10-12 09:43:49,663 - ebam -INFO - password provided
+2022-10-12 09:43:55,401 - ebam -INFO - Login passed
+2022-10-12 09:51:25,791 - ebam -INFO - user name provided
+2022-10-12 09:51:26,199 - ebam -INFO - password provided
+2022-10-12 09:51:34,190 - ebam -INFO - Login passed
+2022-10-12 09:51:42,101 - ebam -INFO - user name provided
+2022-10-12 09:51:42,265 - ebam -INFO - password provided
+2022-10-12 09:51:49,156 - ebam -INFO - Login passed
+2022-10-15 16:35:46,634 - ebam -INFO - user name provided
+2022-10-15 16:35:46,928 - ebam -INFO - password provided
+2022-10-15 16:35:55,394 - ebam -INFO - Login passed
+2022-10-15 16:36:03,674 - ebam -INFO - user name provided
+2022-10-15 16:36:03,824 - ebam -INFO - password provided
+2022-10-15 16:36:11,094 - ebam -INFO - Login passed

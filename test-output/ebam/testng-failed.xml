@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ebam]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.bikkadit.ebam.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="loginTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.bikkadit.ebam.testCases.TC_loginTest_002">
+        <methods>
+          <include name="loginDDT" invocation-numbers="1 2 3"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.bikkadit.ebam.testCases.TC_loginTest_002 -->
+    </classes>
+  </test> <!-- loginTest(failed) -->
+</suite> <!-- Failed suite [ebam] -->

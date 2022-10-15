@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="ebam">
+
+		<listeners>
+		<listener class-name="com.bikkadit.ebam.utilities.Reporting"/>					
+		</listeners>
+		
+	<test name="loginTest">		
+		<parameter name="browser" value="chrome"/>
+		<classes>
+			  <!--  <class name="com.bikkadit.ebam.testCases.TC_LoginTest_001"/>-->
+				<class name="com.bikkadit.ebam.testCases.TC_loginTest_002"/>
+						
+		</classes>
+	</test>
+</suite>
